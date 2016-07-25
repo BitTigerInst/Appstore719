@@ -18,12 +18,12 @@
 ### 1. Related Technology:
 - [Spring and Java] (https://www.bittiger.io/classpage/eg2b34sYEyzok6AnN)
 - [AppStore Introduction] (https://www.youtube.com/watch?v=hJuw1Wbn0PM)
--[MeteorJS AppStore Class] (https://www.youtube.com/watch?v=xiVk8Kr6KqE)
--[AppStore Recommender] (https://www.youtube.com/watch?v=t1tSCbZxml4)
--[App Store Crawler Advanced] (https://www.youtube.com/watch?v=JxCTk3Iz63w)
+- [MeteorJS AppStore Class] (https://www.youtube.com/watch?v=xiVk8Kr6KqE)
+- [AppStore Recommender] (https://www.youtube.com/watch?v=t1tSCbZxml4)
+- [App Store Crawler Advanced] (https://www.youtube.com/watch?v=JxCTk3Iz63w)
 
 ### 2. More example and information:
--Bittiger project list https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e
+- [Bittiger project list] (https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e)
 
 #Project Information
 - category: full stack
