@@ -11,7 +11,7 @@
 | 3th Week | 08/01/16  | 08/7/16  | Design and implement back-end. Test the connection between DB and back-end |
 | 4th Week | 08/08/16  | 08/14/16 | Finish back-end and start front end  |
 | 5th Week | 08/15/16  | 08/21/16 | Finish front and test |
-| 5th Week | 08/22/16  | 08/28/16 | Review, fix bug and prepare presentation |
+| 6th Week | 08/22/16  | 08/28/16 | Review, fix bug and prepare presentation |
 
 
 #Resource
